@@ -1,0 +1,18 @@
+body{
+	background-image: url(http://imgs.abduzeedo.com/files/tutorials/revolution-light-effect/step1.jpg);
+}
+h1{
+	font-size: 50px;
+	font-family: Impact;
+}
+.header{
+	border: 100px;
+	background-position: center;
+	background-color: blue;
+}
+.manual{
+	position: fixed;
+	top: 18%;
+	right: 15%;
+	size: landscape;
+}
